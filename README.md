@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👋
+
+🔭 I mostly do private research/project. Someday I'll write about it✨
 
 <!--
 **akibkamani/akibkamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
